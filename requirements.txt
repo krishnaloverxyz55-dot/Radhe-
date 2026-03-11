@@ -1,6 +1,6 @@
 pyrogram
 tgcrypto
-py-tgcalls==0.9.7
+py-tgcalls==2.2.11
 yt-dlp
 ffmpeg-python
 python-dotenv
